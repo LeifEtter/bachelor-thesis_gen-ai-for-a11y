@@ -49,7 +49,17 @@ OR
 // NOTE: dblp doesn't allow for combined search terms, so single search queries were used
 generative ai accessibility
 generative ai visually impaired
+generative ai screen reader
 ai visually impaired
+ai blind visually impaired
+ai visual impairment
+ai screen reader
+ai blindness
+large language model visual impairment
+large language model accessibility
+llm visually impaired
+llm accessibility
+llm screen reader
 
 Systematic Review/Mapping Study Examples
 
