@@ -17,6 +17,9 @@ AND
 ((Title:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
 OR
 (Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")))
+OR
+(Keyword:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Keyword:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader" OR "WCAG"))
+
 
 ### For IEEE Xplore:
 
