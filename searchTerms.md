@@ -32,6 +32,24 @@ AND
   OR
   ("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader" OR "Abstract":"screen readers" OR "Abstract":"WCAG")
 )
+
+### For Springer Nature
+
+// KEYWORDS FIELD
+("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")
+
+// TITLE FIELD
+("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")
+
+### FOR bdlp
+
+// NOTE: dblp doesn't allow for combined search terms, so single search queries were used
+generative ai accessibility
+generative ai visually impaired
+ai visually impaired
+
+
+
 For JSTOR
 
 ("generative ai" OR "gen ai" OR "gen-ai" OR "LLM*" OR "Large Language Model*") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")
