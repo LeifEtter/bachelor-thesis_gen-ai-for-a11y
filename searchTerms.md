@@ -5,6 +5,15 @@
 (Title:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND Title:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
 OR
 (Abstract:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
+IMPROVED
+
+((Title:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI"))
+OR
+(Abstract:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI")))
+AND
+((Title:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
+OR
+(Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")))
 
 ### For IEEE Xplore:
 
