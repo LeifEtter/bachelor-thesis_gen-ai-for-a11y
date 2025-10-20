@@ -51,13 +51,6 @@ generative ai accessibility
 generative ai visually impaired
 ai visually impaired
 
-
-
-For JSTOR
-
-("generative ai" OR "gen ai" OR "gen-ai" OR "LLM*" OR "Large Language Model*") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")
-
-
 Systematic Review/Mapping Study Examples
 
 [Systematic Review](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1349668/full#https:/)
