@@ -2,11 +2,11 @@
 
 #### For ACM Digital Library:
 
-(Title:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND Title:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
+<!-- (Title:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND Title:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
 OR
 (Abstract:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG"))
 OR
-(Keyword:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader\*" OR "WCAG"))
+(Keyword:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Abstract:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader\*" OR "WCAG")) -->
 
 IMPROVED
 
@@ -23,9 +23,9 @@ OR
 
 ### For IEEE Xplore:
 
-(("Document Title":"generative ai" OR "Document Title":"gen ai" OR "Document Title":"gen-ai" OR "Document Title":"generative artificial intelligence" OR "Document Title":"LLM*" or "Document Title":"Large Language Model*" OR "Document Title":"artificial intelligence" OR "Document Title": "AI") AND ("Document Title":"web accessibility" OR "Document Title":"bvi" OR "Document Title":"blind and visual impairment" OR "Document Title":"blind and visually impaired" OR "Document Title":"blind" OR "Document Title":"blindness" OR "Document Title":"screen reader*" OR "Document Title":"WCAG"))
+<!-- (("Document Title":"generative ai" OR "Document Title":"gen ai" OR "Document Title":"gen-ai" OR "Document Title":"generative artificial intelligence" OR "Document Title":"LLM*" or "Document Title":"Large Language Model*" OR "Document Title":"artificial intelligence" OR "Document Title": "AI") AND ("Document Title":"web accessibility" OR "Document Title":"bvi" OR "Document Title":"blind and visual impairment" OR "Document Title":"blind and visually impaired" OR "Document Title":"blind" OR "Document Title":"blindness" OR "Document Title":"screen reader*" OR "Document Title":"WCAG"))
 OR
-(("Abstract":"generative ai" OR "Abstract":"gen ai" OR "Abstract":"gen-ai" OR "Abstract":"generative artificial intelligence" OR "Abstract":"LLM*" OR "Abstract":"Large Language Model*" OR "Abstract":"artificial intelligence" OR "Abstract": "AI") AND ("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader*" OR "Abstract":"WCAG"))
+(("Abstract":"generative ai" OR "Abstract":"gen ai" OR "Abstract":"gen-ai" OR "Abstract":"generative artificial intelligence" OR "Abstract":"LLM*" OR "Abstract":"Large Language Model*" OR "Abstract":"artificial intelligence" OR "Abstract": "AI") AND ("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader*" OR "Abstract":"WCAG")) -->
 
 (
 ("Document Title":"generative ai" OR "Document Title":"gen ai" OR "Document Title":"gen-ai" OR "Document Title":"generative artificial intelligence" OR "Document Title":"LLM" OR "Document Title":"LLMs" OR "Document Title":"Large Language Model" OR "Document Title":"Large Language Models" OR "Document Title":"artificial intelligence" OR "Document Title":"AI")
