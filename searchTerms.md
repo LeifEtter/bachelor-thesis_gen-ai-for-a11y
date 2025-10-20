@@ -20,6 +20,7 @@ OR
 OR
 (Keyword:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Keyword:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader" OR "WCAG"))
 
+**RESULT COUNT (Year of Publication >= 2022): 278**
 
 ### For IEEE Xplore:
 
@@ -27,27 +28,31 @@ OR
 OR
 (("Abstract":"generative ai" OR "Abstract":"gen ai" OR "Abstract":"gen-ai" OR "Abstract":"generative artificial intelligence" OR "Abstract":"LLM*" OR "Abstract":"Large Language Model*" OR "Abstract":"artificial intelligence" OR "Abstract": "AI") AND ("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader*" OR "Abstract":"WCAG")) -->
 
-(
-("Document Title":"generative ai" OR "Document Title":"gen ai" OR "Document Title":"gen-ai" OR "Document Title":"generative artificial intelligence" OR "Document Title":"LLM" OR "Document Title":"LLMs" OR "Document Title":"Large Language Model" OR "Document Title":"Large Language Models" OR "Document Title":"artificial intelligence" OR "Document Title":"AI")
+((("Document Title":"generative ai" OR "Document Title":"gen ai" OR "Document Title":"gen-ai" OR "Document Title":"generative artificial intelligence" OR "Document Title":"LLM" OR "Document Title":"LLMs" OR "Document Title":"Large Language Model" OR "Document Title":"Large Language Models" OR "Document Title":"artificial intelligence" OR "Document Title":"AI")
 OR
-("Abstract":"generative ai" OR "Abstract":"gen ai" OR "Abstract":"gen-ai" OR "Abstract":"generative artificial intelligence" OR "Abstract":"LLM" OR "Abstract":"LLMs" OR "Abstract":"Large Language Model" OR "Abstract":"Large Language Models" OR "Abstract":"artificial intelligence" OR "Abstract":"AI")
-)
+("Abstract":"generative ai" OR "Abstract":"gen ai" OR "Abstract":"gen-ai" OR "Abstract":"generative artificial intelligence" OR "Abstract":"LLM" OR "Abstract":"LLMs" OR "Abstract":"Large Language Model" OR "Abstract":"Large Language Models" OR "Abstract":"artificial intelligence" OR "Abstract":"AI"))
 AND
-(
-("Document Title":"web accessibility" OR "Document Title":"bvi" OR "Document Title":"blind and visual impairment" OR "Document Title":"blind and visually impaired" OR "Document Title":"blind or visually impaired" OR "Document Title":"blind" OR "Document Title":"blindness" OR "Document Title":"screen reader" OR "Document Title":"screen readers" OR "Document Title":"WCAG")
+(("Document Title":"web accessibility" OR "Document Title":"bvi" OR "Document Title":"blind and visual impairment" OR "Document Title":"blind and visually impaired" OR "Document Title":"blind or visually impaired" OR "Document Title":"blind" OR "Document Title":"blindness" OR "Document Title":"screen reader" OR "Document Title":"screen readers" OR "Document Title":"WCAG")
 OR
-("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader" OR "Abstract":"screen readers" OR "Abstract":"WCAG")
-)
+("Abstract":"web accessibility" OR "Abstract":"bvi" OR "Abstract":"blind and visual impairment" OR "Abstract":"blind and visually impaired" OR "Abstract":"blind or visually impaired" OR "Abstract":"blind" OR "Abstract":"blindness" OR "Abstract":"screen reader" OR "Abstract":"screen readers" OR "Abstract":"WCAG")))
+OR
+(("Author Keywords":"generative ai" OR "Author Keywords":"gen ai" OR "Author Keywords":"gen-ai" OR "Author Keywords":"generative artificial intelligence" OR "Author Keywords":"LLM" OR "Author Keywords":"LLMs" OR "Author Keywords":"Large Language Model" OR "Author Keywords":"Large Language Models" OR "Author Keywords":"artificial intelligence" OR "Author Keywords":"AI") AND ("Author Keywords":"web accessibility" OR "Author Keywords":"bvi" OR "Author Keywords":"blind and visual impairment" OR "Author Keywords":"blind and visually impaired" OR "Author Keywords":"blind or visually impaired" OR "Author Keywords":"blind" OR "Author Keywords":"blindness" OR "Author Keywords:"screen reader" OR "Author Keywords":"screen readers" OR "Author Keywords":"WCAG"))
 
-### For Springer Nature
+**RESULT COUNT (Year of Publication >= 2022): 490**
 
-// KEYWORDS FIELD
-("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader\*" OR "WCAG")
+## For Springer Nature
 
-// TITLE FIELD
-("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader\*" OR "WCAG")
+#### KEYWORDS FIELD
 
-### FOR bdlp
+("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader" OR "WCAG")
+
+#### TITLE FIELD
+
+("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader" OR "WCAG")
+
+**RESULT COUNT (Year of Publication >= 2022): 30**
+
+## FOR bdlp
 
 // NOTE: dblp doesn't allow for combined search terms, so single search queries were used
 generative ai accessibility
