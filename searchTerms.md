@@ -20,6 +20,7 @@ OR
 OR
 (Keyword:("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" or "Large Language Model*" OR "artificial intelligence" OR "AI") AND Keyword:("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind or visually impaired" OR "blind" OR "blindness" OR "screen reader" OR "WCAG"))
 
+**RESULT BEFORE YEAR OF PUBLICATION FILTERING: 471**
 **RESULT COUNT (Year of Publication >= 2022): 278**
 
 ### For IEEE Xplore:
@@ -38,6 +39,7 @@ OR
 OR
 (("Author Keywords":"generative ai" OR "Author Keywords":"gen ai" OR "Author Keywords":"gen-ai" OR "Author Keywords":"generative artificial intelligence" OR "Author Keywords":"LLM" OR "Author Keywords":"LLMs" OR "Author Keywords":"Large Language Model" OR "Author Keywords":"Large Language Models" OR "Author Keywords":"artificial intelligence" OR "Author Keywords":"AI") AND ("Author Keywords":"web accessibility" OR "Author Keywords":"bvi" OR "Author Keywords":"blind and visual impairment" OR "Author Keywords":"blind and visually impaired" OR "Author Keywords":"blind or visually impaired" OR "Author Keywords":"blind" OR "Author Keywords":"blindness" OR "Author Keywords:"screen reader" OR "Author Keywords":"screen readers" OR "Author Keywords":"WCAG"))
 
+**RESULT BEFORE YEAR OF PUBLICATION FILTERING: 624**
 **RESULT COUNT (Year of Publication >= 2022): 490**
 
 ## For Springer Nature
