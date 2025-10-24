@@ -50,3 +50,29 @@ https://doi.org/10.1145/3517384
 
 Over Reliance on AI:
 https://doi.org/10.1016/j.chb.2024.108352
+
+Reasoning for SLR:
+https://doi.org/10.1145/3696593.3696622
+
+Hallucinations in AI:
+10.1109/ACCESS.2025.3601206
+
+High Quality Study about AI in Higher Education:
+https://doi.org/10.1007/s10639-024-12633-y
+
+AI for Early Fake News Detection:
+https://doi.org/10.1609/aaai.v37i4.25655
+
+BVI people concerns in sharing data:
+https://doi.org/10.1145/3544548.3581337
+
+Check here for suitable papers:
+https://doi.org/10.1145/3762706
+
+Images in AI Ethics:
+https://link.springer.com/article/10.1007/s13347-022-00498-3
+
+Translation benefits (Excluded):
+10.1109/ICDSAAI65575.2025.11011636
+
+Additionally Explore advanced Voice Assistance that might not mention use for BVI people
