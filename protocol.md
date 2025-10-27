@@ -13,6 +13,9 @@ Duplicates Removed: 215
 
 Remaining: 1036
 
+More Exclusion due to years: 54
+
+
 Inclusion Criteria
 
 
@@ -23,7 +26,7 @@ Research that include Primary Research
 
 Exclusion Criteria:
 Research that deals with Gen AI approaches that mainly improve interaction with the real world through software (VAI etc.)
-Research that 
+Research that investigates Gen AI as the end and not the means
 
 FUn notes:
 Tactile ai to create objects that represent on screen things
@@ -76,3 +79,40 @@ Translation benefits (Excluded):
 10.1109/ICDSAAI65575.2025.11011636
 
 Additionally Explore advanced Voice Assistance that might not mention use for BVI people
+
+Paper on Privacy:
+10.1109/IMITEC60221.2024.10851091
+
+Conseqeunces of AI
+10.1109/MSEC.2025.3596734
+
+Issue with AI:
+https://doi.org/10.48550/arXiv.2508.07989
+
+VERY IMPORTANT: Vulnerability of AI Agents in Web Navigation
+https://doi.org/10.48550/arXiv.2507.14799
+
+https://eye-able.com/blog/artificial-intelligence-in-digital-accessibility-and-how-we-already-use-it
+
+{Web Accessibility Evaluation Tools List}
+{World Wide Web Consortium}
+
+
+Consider this in introduction:
+{Web Content Accessibility Guidelines (WCAG) 2.2}
+{Web Accessibility Evaluation Tools List}
+
+Interesting Article:
+https://www.researchgate.net/publication/377953097_MEETING_SUSTAINABLE_GOALS_THROUGH_IMPROVED_DIGITAL_ACCESSIBILITY_OF_CONTENT_A_LANDSCAPE_REVIEW_IN_THE_UNIVERSITY_CONTEXT
+
+article on limits of chatgpt4:
+10.21541/apjes.1346387 - {Is ChatGPT leading generative AI? What is beyond expectations?}
+https://link.springer.com/article/10.1007/s10676-024-09775-5
+
+Web Accessbility Legal: {Is Website Accessibility a Legal Requirement?}
+
+Ethics is not an immitation game:
+10.1109/MTS.2022.3147531
+
+accessibility Guidelines:
+https://link.springer.com/article/10.1007/s10209-025-01214-6
