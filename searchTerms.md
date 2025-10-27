@@ -65,6 +65,7 @@ OR
 
 ("generative ai" OR "gen ai" OR "gen-ai" OR "generative artificial intelligence" OR "LLM*" OR "Large Language Model*" OR "artificial intelligence" OR "AI") AND ("web accessibility" OR "bvi" OR "blind and visual impairment" OR "blind and visually impaired" OR "blind" OR "blindness" OR "screen reader*" OR "WCAG")
 
+**RESULT COUNT BEFORE FILTERING BY PUBYEAR: 39**
 **RESULT COUNT (Year of Publication >= 2022): 30**
 
 ## FOR bdlp
@@ -83,6 +84,24 @@ large language model accessibility
 llm visually impaired
 llm accessibility
 llm screen reader
+
+**RESULT COUNT BEFORE FILTERING BY PUBYEAR: 102**
+**RESULT COUNT (Year of Publication >= 2022): 89**
+
+Systematic Mapping Study
+
+**RESULT COUNT BEFORE FILTERING BY PUBYEAR: 130**
+**RESULT COUNT (Year of Publication >= 2022): 90**
+
+**RESULT FROM DATASET
+
+**RESULT COUNT BEFORE FILTERING BY PUBYEAR: 45**
+**RESULT COUNT (Year of Publication >= 2022): 40**
+
+**RESULT FROM REFERENCE SEARCH
+
+**RESULT COUNT BEFORE FILTERING BY PUBYEAR: 3**
+**RESULT COUNT (Year of Publication >= 2022): 3**
 
 Systematic Review/Mapping Study Examples
 
