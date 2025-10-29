@@ -86,3 +86,18 @@ Ethics is not an immitation game:
 
 accessibility Guidelines:
 https://link.springer.com/article/10.1007/s10209-025-01214-6
+
+Challenges of E-Commerce Sites:
+https://peerj.com/articles/cs-891/
+
+
+explain why this SLR is not sufficient:
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1349668/full#https:/
+
+
+Captcha is hinderance to BVI people:
+https://arxiv.org/abs/2505.24878
+
+Analysis of Accessibility of mobile apps:
+https://arxiv.org/abs/2203.06422
+https://arxiv.org/abs/2409.07945
