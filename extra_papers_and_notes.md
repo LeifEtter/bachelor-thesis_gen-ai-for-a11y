@@ -101,3 +101,19 @@ https://arxiv.org/abs/2505.24878
 Analysis of Accessibility of mobile apps:
 https://arxiv.org/abs/2203.06422
 https://arxiv.org/abs/2409.07945
+
+"WebAIM survey of the most-visited one million web pages
+[14] found 30% of images had missing or uninformative alternative
+text descriptions i.e., alt text, upon which screen reader users rely."
+
+2023. The WebAIM Million. Retrieved September 6, 2023 from https://webaim.org/projects/million/
+
+
+Dimensional alt text to be used with AI:
+https://doi.org/10.1145/3544549.3585706
+
+Evidence for troubles when navigating as visually challenged person:
+https://doi.org/10.1145/3696593.3696622
+
+Ethical Implications regarding VAT's
+https://doi.org/10.1145/3587281.3587296
