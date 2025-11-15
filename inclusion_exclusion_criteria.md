@@ -23,3 +23,11 @@ Research that include Primary Research
 Papers Published before 2022
 Research that deals with Gen AI approaches that mainly improve interaction with the real world through software (VAI etc.)
 Research that focuses on making Gen AI itself more accessible
+
+
+Possible Ammendment of Criteria:
+
+Exclusion:
+* Research without Human Participants
+* Research on Gen AI approaches for making standalone accessible software instead of enhancing existing software's accessibility
+* Research pertaining to Gen AI in helping develop accessible products
