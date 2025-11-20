@@ -117,3 +117,68 @@ https://doi.org/10.1145/3696593.3696622
 
 Ethical Implications regarding VAT's
 https://doi.org/10.1145/3587281.3587296
+
+Paper on how it is important to include data from BVI people such as images to create datasets for Gen AI
+https://doi.org/10.1145/3544548.3580922
+
+Paper on Accessibility regarding Security and Privacy
+https://dl.acm.org/doi/full/10.1145/3663547.3759688
+
+Excluded Paper on issues regarding accessibility of code written by ai
+https://doi.org/10.1145/3744257.3744266
+
+Discuss AI Chatbots with Speech functionality in general for faster information retrieval
+
+!IMPORTANT!  - Paper that investigates LLM to manipulate DOM
+10.1109/COMPSAC65507.2025.00289 - NO BVI PARTICIPANTS - mention in future work, how technologies like these have to be tested on BVI participants
+Maybe also check sources and citations
+Another one: 10.1109/ICCA62237.2024.10928130
+This one is live translate for alt-text: 10.1109/ICSTEM61137.2024.10561228
+10.1109/ICCA62237.2024.10927778 - Shopping but no BVI participants
+10.15575/join.v9i1.1310 - No BVI participants
+10.1007/978-3-031-82606-1_3 - No BVI participants
+
+More PApers on Privacy Concerns
+https://doi.org/10.1145/3517384
+
+Papers on the Risk of Gen AI for dev
+https://dl.acm.org/profile/99659441786
+
+Issue with Accessbility with Gen AI generated code:
+https://doi.org/10.1109/MOBILESoft66462.2025.00010
+
+Injection Threat for Agents, for example Accessibility Agents:
+https://doi.org/10.48550/arXiv.2507.14799
+
+Different AI models for Accessibility:
+https://doi.org/10.1109/NILES63360.2024.10753262
+
+AI for Acessbility Review:
+10.28991/ESJ-2024-08-04-021
+
+Discuss AI Agent problem: Prevent Scraping but still embrace accessibility
+
+Check out for more references:
+https://new.rayyan.ai/reviews/1664247/fulltext?article=4
+
+Ccheck for more references:
+10.2991/978-94-6463-512-6_6
+
+
+AI and hallucinations
+10.1007/s10676-024-09772-z
+10.1145/3660341
+
+Article on codev of gen ai with disabled people:
+10.1109/CVMI59935.2023.10465050
+
+
+Agents that are useful but not researched for BVI
+https://arxiv.org/html/2401.01614v1
+https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/
+
+A lot of generalist ai agents exist that could be utilized for BVI people:
+https://osu-nlp-group.github.io/Mind2Web/
+
+AI can empower BVI people to code apps 
+https://arxiv.org/abs/2506.13270
