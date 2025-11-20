@@ -32,3 +32,16 @@ More Records added during Arxiv Manual search: 7
 
 Another recorded added after reviewing background article: 
 ProgramAlly: Creating Custom Visual Access Programs via Multi-Modal End-User Programming
+
+Found during investigation of background article from "Lotus Zhang":
+VizXpress: Towards Expressive Visual Content by Blind Creators Through AI Support
+[Title here] : https://arxiv.org/abs/2507.00286
+
+Focus on how Gen AI might make it possible for users to personalize their assistive software. 
+Personalization focus:
+https://doi.org/10.1145/3544548.3581249
+https://doi.org/10.1145/3654768.3654772
+
+Paper added on Gesture/Voice input and AI
+https://dl.acm.org/doi/10.1145/3663547.3746388
+
