@@ -182,3 +182,9 @@ https://osu-nlp-group.github.io/Mind2Web/
 
 AI can empower BVI people to code apps 
 https://arxiv.org/abs/2506.13270
+
+Good Paper on Captioning but needs further BVI participant research:
+https://doi.org/10.1145/3746058.3758413
+
+Paper on VR Accessibility but no BVI participants interviewed:
+https://doi.org/10.1145/3663548.3688498
