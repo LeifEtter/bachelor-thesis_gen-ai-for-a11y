@@ -188,3 +188,76 @@ https://doi.org/10.1145/3746058.3758413
 
 Paper on VR Accessibility but no BVI participants interviewed:
 https://doi.org/10.1145/3663548.3688498
+
+Review on Human-AI trustbuilding
+https://dl.acm.org/doi/full/10.1145/3696449
+
+How ableist training data affects llm's
+https://dl.acm.org/doi/10.1145/3593013.3593989
+
+How ChatGPT could make search less reliable
+https://www.cip.uw.edu/2024/02/18/search-engines-chatgpt-generative-artificial-intelligence-less-reliable/
+
+Factuality of LLM's:
+https://doi.org/10.48550/arXiv.2402.02420 arXiv:2402.02420
+
+TAXONOMY of risks posed by LLM's:
+https://dl.acm.org/doi/10.1145/3531146.3533088
+
+NAvigation of Disclosure risks:
+https://dl.acm.org/doi/10.1145/3613904.3642385
+
+Understanding and solving ai misinformation:
+https://doi.org/10.1145/3544548.3581318
+
+Study on spelling performance (possible argumentation of chatgpt helping)
+https://doi.org/10.1177/0264619608097746
+
+Temp disability solutions:
+https://dl.acm.org/doi/10.1145/3663547.3749830
+
+Inclusive information access:
+https://irrj.org/article/view/21092
+
+Why is accessibility so hard? Privacy:
+https://dl.acm.org/doi/10.1145/3678884.3681876
+
+Note on Inclusion/Exclusion:
+Paper does not focus on the following:
+* Gen AI for evaluating accessibility of information/software/media
+* Author/Developer Facing gen ai for improving accessibility of information/software/media
+* Gen AI with use in accessibility but not tested on BVI persons
+Paper focuses on:
+* User-Facing Gen Ai Applications/Tools for improving accessibility of software (code, information, media)
+
+
+Quote:
+We acknowledge that there are diverse preferences among disability communities
+regarding the use of person-frst or identity-frst language [34]. In this paper, we
+use identity-frst language (e.g., blind and low-vision people) instead of person-frst
+language (e.g., people who are blind; people with vision loss or visual impairments),
+guided by the perspective of the National Federation of the Blind. 2The term "non-BLV" is used in this paper instead of "sighted" to better describe
+individuals who are neither blind nor low-vision, as BLV individuals may have partial
+sight in the visualization context. "Sighted" is used only when directly quoted from
+study participants.
+This paper: Ather Sharif, Aedan Liam McCall, and Kianna Roces Bolante. 2022. Should I Say “Disabled People” or “People with Disabilities”? Language Preferences of Disabled People Between Identity- and Person-First Language. In Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility(ASSETS ’22). Association for Computing Machinery, New York, NY, USA, 1–18. https://doi.org/10.1145/3517428.3544813
+
+
+Study on Accessibility of top 1M home pages:
+WebAIM. 2024. WebAIM: The WebAIM Million - The 2024 Report on the Accessibility of the Top 1,000,000 Home Pages. https://webaim.org/projects/million/#labels.
+
+Accessibility Security Privacy nexus:
+https://dl.acm.org/doi/10.1145/3663547.3759688
+
+
+Video Accessibility ACT:
+Federal Communications Commission (FCC). 2024. Twenty-First Century Communications and Video Accessibility Act. Retrieved Feb. 18, 2025 from https://www.fcc.gov/cvaa
+
+Video Hallucinations:
+Chaoyu Li, Eun Woo Im, and Pooyan Fazli. 2024. VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding. arXiv:2412.03735 [cs.CV].
+
+SECURITY: PRompt injection Attacks to LLM integrated applications:
+Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, and Yang Liu. 2023. Prompt Injection attack against LLM-integrated Applications. arXiv:2306.05499 [cs.CV].
+
+Hallucinations and Unanswerable questions:
+https://dl.acm.org/doi/10.1145/3708359.3712160
