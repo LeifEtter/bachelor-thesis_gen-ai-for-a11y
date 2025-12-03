@@ -261,3 +261,24 @@ Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu W
 
 Hallucinations and Unanswerable questions:
 https://dl.acm.org/doi/10.1145/3708359.3712160
+
+https://dl.acm.org/doi/10.1016/j.infsof.2025.107821
+
+Accessibility barriers in Mobile Games
+https://dl.acm.org/doi/10.1145/3663547.3746385
+
+ENERGY COST OF GEN AI
+https://dl.acm.org/doi/10.1145/3706598.3714227
+
+Paper on how AI could perform simulated HCI research
+https://dl.acm.org/doi/10.1145/3544548.3580688
+
+Screen Readers and Phishing!!!!
+https://ieeexplore.ieee.org/abstract/document/10643100
+Mention how to little research is being done for use of gen ai for BVI to enhance security
+
+SUPER IMPORTANT! Overlays and Accessibility Pitfalls
+https://dl.acm.org/doi/pdf/10.1145/3663548.3675650
+
+PAPER ON LLM SCREEN READING
+https://dl.acm.org/doi/10.1145/3663548.3688491
