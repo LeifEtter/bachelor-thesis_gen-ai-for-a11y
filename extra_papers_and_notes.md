@@ -281,4 +281,34 @@ SUPER IMPORTANT! Overlays and Accessibility Pitfalls
 https://dl.acm.org/doi/pdf/10.1145/3663548.3675650
 
 PAPER ON LLM SCREEN READING
-https://dl.acm.org/doi/10.1145/3663548.3688491
+https://[text](https://arxiv.org/abs/2506.13270)dl.acm.org/doi/10.1145/3663548.36884https://www.afb.org/research-and-initiatives/empowering-or-excluding
+
+https://www.ital-ia2023.it/media/papers/MateraEtAl_PROTECT.pdf
+https://www.politesi.polimi.it/handle/10589/223311
+
+Multiple descriptions from diff LLM for an image increase confidence
+https://dl.acm.org/doi/full/10.1145/3663547.3746393
+
+Gen AI Workshop for Accessibility
+https://dl.acm.org/doi/abs/10.1145/3706599.3706734
+
+Systematc Literature Mapping for LLM in HCI
+https://sol.sbc.org.br/index.php/webmedia/article/view/38018
+
+Conversational Agent without testing on BVI
+https://arxiv.org/html/2506.11127v2
+
+Hallucinations
+https://www.nature.com/articles/s41599-024-03811-x
+
+Gen ai and wel being of blind
+https://ojs.aaai.org/index.php/AAAI-SS/article/view/31232
+
+Q%A bot as tool to enhance privacy knolwedge for blind inidviduals (Future uses)
+https://www.usenix.org/conference/usenixsecurity24/presentation/feng-yuanyuan
+
+evalutation of screen reader software enhancements
+https://digitalcommons.lindenwood.edu/faculty-research-papers/714/
+
+test websites for voice interface interactivity for accessibility
+https://inlibrary.uz/index.php/tajet/article/view/61235
